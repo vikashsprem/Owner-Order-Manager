@@ -1,5 +1,5 @@
 # Project Name
-
+Order-Manager by Owner: Owner can manage the order of the client easily.
 ## Overview
 This project is a web application designed to manage orders and calculate total order values. It allows users to add, update, and delete orders, view the total order value, and search for specific orders. The application integrates Google OAuth for authentication, ensuring secure access to authorized users only.
 
