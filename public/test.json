@@ -1,0 +1,18 @@
+[
+  {
+    "id": "5e2940fdca9da1f010246d41",
+    "customer_name": "Tillman Parker",
+    "customer_email": "tillmanparker@kyaguru.com",
+    "product": "Product 1",
+    "quantity": 4,
+    "order_value": 116
+  },
+  {
+    "id": "5e2940fdb90821ae660a343c",
+    "customer_name": "Helen Gentry",
+    "customer_email": "helengentry@kyaguru.com",
+    "product": "Product 2",
+    "quantity": 6,
+    "order_value": 294
+  }
+]

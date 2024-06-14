@@ -1,0 +1,21 @@
+.auth {
+    display: flex;
+    width: 100%;
+    text-align: right;
+    padding: 10px;
+    justify-content: flex-end;
+  }
+  
+  .auth button {
+    padding: 10px 20px;
+    background-color: #ca1634;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .auth button:hover {
+    background-color: #c00303;
+  }
+  

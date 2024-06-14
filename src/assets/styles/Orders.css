@@ -1,0 +1,24 @@
+.orders {
+    padding: 20px;
+  }
+  
+  .orders h2 {
+    margin-bottom: 20px;
+  }
+  
+  .orders ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .orders li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .orders button {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
